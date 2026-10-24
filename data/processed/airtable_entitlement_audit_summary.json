@@ -17,18 +17,18 @@
     "dedupe_profile": "audited-apr-snapshots-v4",
     "entitlement_removed_row_count": 7877,
     "entitlement_removed_units": 28864,
-    "entitlement_retained_row_count": 71074,
-    "entitlement_selected_row_count": 78951,
-    "entitlement_selected_units": 499158,
+    "entitlement_retained_row_count": 71118,
+    "entitlement_selected_row_count": 78995,
+    "entitlement_selected_units": 499669,
     "jurisdiction_count": 539,
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-23",
     "provisional": false,
-    "removed_row_count": 33521,
-    "removed_units": 63140,
-    "retained_row_count": 277784,
-    "selected_row_count": 311305,
-    "selected_units": 557387,
-    "source_manifest_sha256": "7877790b12f3027320ee328661e523bc11c163ff9bd372ad8ed42a241fc19ca8",
+    "removed_row_count": 33518,
+    "removed_units": 63128,
+    "retained_row_count": 277801,
+    "selected_row_count": 311319,
+    "selected_units": 557404,
+    "source_manifest_sha256": "0cc77127bd35d1ba978874fa45abfb5a9cff7e54755bf9fd0aa01047a28986ee",
     "undated_entitlements": 0,
     "undated_permits": 46
   },
@@ -151,20 +151,20 @@
     "very_low": 2566
   },
   "retained_categories": {
-    "above_moderate": 322203,
+    "above_moderate": 322646,
     "acutely_low": 499,
     "extremely_low": 3788,
     "low": 77573,
-    "moderate": 38379,
-    "very_low": 27852
+    "moderate": 38380,
+    "very_low": 27919
   },
   "selected_categories": {
-    "above_moderate": 341841,
+    "above_moderate": 342284,
     "acutely_low": 499,
     "extremely_low": 3788,
     "low": 82258,
-    "moderate": 40354,
-    "very_low": 30418
+    "moderate": 40355,
+    "very_low": 30485
   },
   "selection": {
     "max_report_year": 2025,
@@ -251,10 +251,10 @@
     ],
     "raw_jurisdiction_count": 534,
     "raw_jurisdictions_without_planning_period": [],
-    "raw_row_count": 924139,
+    "raw_row_count": 926774,
     "reported_total_mismatch_rows": 0,
     "reported_total_net_difference": 0,
-    "selected_row_count": 78951
+    "selected_row_count": 78995
   },
   "source_columns": {
     "categories": {
