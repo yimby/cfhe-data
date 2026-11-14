@@ -6,7 +6,7 @@
       "catalog_advertised_size": 47562,
       "catalog_hash": "5e9772fd890443ee092d31bd1782868a",
       "catalog_hash_match": true,
-      "catalog_last_modified": "2026-11-06T16:53:58.936649",
+      "catalog_last_modified": "2026-11-13T16:58:27.976530",
       "configured_url": "https://data.ca.gov/dataset/ff082e96-72f7-4443-9747-8b8dadc15671/resource/1e80a9cf-724c-432d-8374-e9708a6a92dc/download/rhna_progress_6.csv",
       "content_type": "text/csv",
       "datastore_field_ids": [
@@ -45,7 +45,7 @@
       ],
       "datastore_total": 539,
       "etag": "\"5e9772fd890443ee092d31bd1782868a\"",
-      "last_modified": "Fri, 06 Nov 2026 16:53:59 GMT",
+      "last_modified": "Fri, 13 Nov 2026 16:58:28 GMT",
       "md5": "5e9772fd890443ee092d31bd1782868a",
       "name": "rhna_progress_6",
       "raw_filename": "rhna_progress_6-5fd6a9f23e3f2098.csv",
@@ -56,11 +56,11 @@
       "transport": "uploaded_csv"
     },
     "table_a2": {
-      "bytes": 294966223,
-      "catalog_advertised_size": 294966223,
-      "catalog_hash": "3cae61315e6e094d8e4cd849d747c904",
+      "bytes": 294970149,
+      "catalog_advertised_size": 294970149,
+      "catalog_hash": "a7566a818d6569c5a8bcce38a591f6e0",
       "catalog_hash_match": true,
-      "catalog_last_modified": "2026-11-06T16:52:31.920450",
+      "catalog_last_modified": "2026-11-13T16:57:01.652243",
       "configured_url": "https://data.ca.gov/dataset/81b0841f-2802-403e-b48e-2ef4b751f77c/resource/fe505d9b-8c36-42ba-ba30-08bc4f34e022/download/tablea2.csv",
       "content_type": "text/csv",
       "datastore_field_ids": [
@@ -205,16 +205,16 @@
         "STD_ADDRESS",
         "SCORE"
       ],
-      "datastore_total": 927011,
-      "etag": "\"3cae61315e6e094d8e4cd849d747c904\"",
-      "last_modified": "Fri, 06 Nov 2026 16:52:52 GMT",
-      "md5": "3cae61315e6e094d8e4cd849d747c904",
+      "datastore_total": 927020,
+      "etag": "\"a7566a818d6569c5a8bcce38a591f6e0\"",
+      "last_modified": "Fri, 13 Nov 2026 16:57:22 GMT",
+      "md5": "a7566a818d6569c5a8bcce38a591f6e0",
       "name": "table_a2",
-      "raw_filename": "table_a2-e3dae691cc64375d.csv",
+      "raw_filename": "table_a2-a90e8f5bfbac253e.csv",
       "resolved_url": "https://83025b28472d6aa2bf5ae59f3724aa78.us.r2.cloudflarestorage.com/ckan-cdt-prod/ckan-cdt-prod/resources/fe505d9b-8c36-42ba-ba30-08bc4f34e022/tablea2.csv?response-content-disposition=attachment%3B%20filename%3Dtablea2.csv",
       "resource_id": "fe505d9b-8c36-42ba-ba30-08bc4f34e022",
-      "retrieved_at": "2026-11-07T15:40:10+00:00",
-      "sha256": "e3dae691cc64375de77a12d7e7fd265821ed7005fb9f264aa6eb23a4a563455b",
+      "retrieved_at": "2026-11-14T15:40:23+00:00",
+      "sha256": "a90e8f5bfbac253eca43c7ec98db25095c5ffa8ac9b59529042a6377886f2a5e",
       "transport": "uploaded_csv"
     }
   }

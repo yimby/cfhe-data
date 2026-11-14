@@ -9,14 +9,14 @@
     "cutoff_year": 2025,
     "dedupe_profile": "audited-apr-snapshots-v4",
     "jurisdiction_count": 539,
-    "last_updated": "2026-11-06",
+    "last_updated": "2026-11-13",
     "provisional": false,
     "removed_row_count": 34257,
     "removed_units": 63909,
-    "retained_row_count": 279052,
-    "selected_row_count": 313309,
-    "selected_units": 559379,
-    "source_manifest_sha256": "de4ea27f5798b566a1c1ea73daff59a9bd480500933ebe9bbd34a0f122261bab",
+    "retained_row_count": 279058,
+    "selected_row_count": 313315,
+    "selected_units": 559356,
+    "source_manifest_sha256": "1a5abaa100b30b754548cb2998b8178b7aedd60f358cb020a8c546bc59360cd4",
     "undated_permits": 45
   },
   "removed_by_rule": {
@@ -162,7 +162,7 @@
     "very_low": 5519
   },
   "retained_categories": {
-    "above_moderate": 353813,
+    "above_moderate": 353790,
     "acutely_low": 479,
     "extremely_low": 4696,
     "low": 59398,
@@ -170,7 +170,7 @@
     "very_low": 35184
   },
   "selected_categories": {
-    "above_moderate": 399370,
+    "above_moderate": 399347,
     "acutely_low": 479,
     "extremely_low": 5118,
     "low": 66482,
@@ -201,9 +201,9 @@
     ],
     "raw_jurisdiction_count": 534,
     "raw_jurisdictions_without_planning_period": [],
-    "raw_row_count": 927011,
+    "raw_row_count": 927020,
     "reported_total_mismatch_rows": 0,
     "reported_total_net_difference": 0,
-    "selected_row_count": 313309
+    "selected_row_count": 313315
   }
 }
