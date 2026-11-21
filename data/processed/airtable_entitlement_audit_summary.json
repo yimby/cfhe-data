@@ -15,20 +15,20 @@
     },
     "cycle_policy_sha256": "b953a0634424c4944dea09a99254a28f9db8f11524eddadb1954905e15d9fd7f",
     "dedupe_profile": "audited-apr-snapshots-v4",
-    "entitlement_removed_row_count": 7877,
-    "entitlement_removed_units": 28864,
-    "entitlement_retained_row_count": 71211,
-    "entitlement_selected_row_count": 79088,
-    "entitlement_selected_units": 499035,
+    "entitlement_removed_row_count": 7878,
+    "entitlement_removed_units": 28865,
+    "entitlement_retained_row_count": 71218,
+    "entitlement_selected_row_count": 79096,
+    "entitlement_selected_units": 499043,
     "jurisdiction_count": 539,
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-20",
     "provisional": false,
-    "removed_row_count": 33554,
-    "removed_units": 63176,
-    "retained_row_count": 277970,
-    "selected_row_count": 311524,
-    "selected_units": 557538,
-    "source_manifest_sha256": "1a5abaa100b30b754548cb2998b8178b7aedd60f358cb020a8c546bc59360cd4",
+    "removed_row_count": 33555,
+    "removed_units": 63177,
+    "retained_row_count": 277967,
+    "selected_row_count": 311522,
+    "selected_units": 557564,
+    "source_manifest_sha256": "8cac1d82ab52a94aa57e63e833698e2532eb67e87f6986f644aa21c8b68e1b5d",
     "undated_entitlements": 0,
     "undated_permits": 46
   },
@@ -39,11 +39,11 @@
         "acutely_low": 0,
         "extremely_low": 0,
         "low": 381,
-        "moderate": 129,
+        "moderate": 130,
         "very_low": 450
       },
-      "rows": 682,
-      "units": 3143
+      "rows": 683,
+      "units": 3144
     },
     "strong_aggregate_exception": {
       "categories": {
@@ -147,24 +147,24 @@
     "acutely_low": 0,
     "extremely_low": 0,
     "low": 4685,
-    "moderate": 1975,
+    "moderate": 1976,
     "very_low": 2566
   },
   "retained_categories": {
     "above_moderate": 322101,
     "acutely_low": 499,
     "extremely_low": 3788,
-    "low": 77582,
-    "moderate": 38379,
-    "very_low": 27822
+    "low": 77583,
+    "moderate": 38384,
+    "very_low": 27823
   },
   "selected_categories": {
     "above_moderate": 341739,
     "acutely_low": 499,
     "extremely_low": 3788,
-    "low": 82267,
-    "moderate": 40354,
-    "very_low": 30388
+    "low": 82268,
+    "moderate": 40360,
+    "very_low": 30389
   },
   "selection": {
     "max_report_year": 2025,
@@ -251,10 +251,10 @@
     ],
     "raw_jurisdiction_count": 534,
     "raw_jurisdictions_without_planning_period": [],
-    "raw_row_count": 927020,
+    "raw_row_count": 927075,
     "reported_total_mismatch_rows": 0,
     "reported_total_net_difference": 0,
-    "selected_row_count": 79088
+    "selected_row_count": 79096
   },
   "source_columns": {
     "categories": {
