@@ -9,14 +9,14 @@
     "cutoff_year": 2025,
     "dedupe_profile": "audited-apr-snapshots-v4",
     "jurisdiction_count": 539,
-    "last_updated": "2026-11-20",
+    "last_updated": "2026-11-27",
     "provisional": false,
-    "removed_row_count": 34258,
-    "removed_units": 63910,
-    "retained_row_count": 279055,
-    "selected_row_count": 313313,
-    "selected_units": 559382,
-    "source_manifest_sha256": "8cac1d82ab52a94aa57e63e833698e2532eb67e87f6986f644aa21c8b68e1b5d",
+    "removed_row_count": 34259,
+    "removed_units": 63911,
+    "retained_row_count": 279070,
+    "selected_row_count": 313329,
+    "selected_units": 559426,
+    "source_manifest_sha256": "7804171c845fbc10841f4c67c3405b52182bcbffa620860f8c58353d012baff1",
     "undated_permits": 45
   },
   "removed_by_rule": {
@@ -50,11 +50,11 @@
         "acutely_low": 0,
         "extremely_low": 377,
         "low": 6334,
-        "moderate": 4289,
+        "moderate": 4290,
         "very_low": 4968
       },
-      "rows": 29629,
-      "units": 55461
+      "rows": 29630,
+      "units": 55462
     },
     "strong_reliable_snapshot": {
       "categories": {
@@ -158,24 +158,24 @@
     "acutely_low": 0,
     "extremely_low": 422,
     "low": 7084,
-    "moderate": 5328,
+    "moderate": 5329,
     "very_low": 5519
   },
   "retained_categories": {
-    "above_moderate": 353814,
+    "above_moderate": 353812,
     "acutely_low": 479,
     "extremely_low": 4696,
-    "low": 59398,
-    "moderate": 41902,
-    "very_low": 35183
+    "low": 59407,
+    "moderate": 41901,
+    "very_low": 35220
   },
   "selected_categories": {
-    "above_moderate": 399371,
+    "above_moderate": 399369,
     "acutely_low": 479,
     "extremely_low": 5118,
-    "low": 66482,
+    "low": 66491,
     "moderate": 47230,
-    "very_low": 40702
+    "very_low": 40739
   },
   "selection": {
     "max_report_year": 2025,
@@ -201,9 +201,9 @@
     ],
     "raw_jurisdiction_count": 534,
     "raw_jurisdictions_without_planning_period": [],
-    "raw_row_count": 927075,
+    "raw_row_count": 928175,
     "reported_total_mismatch_rows": 0,
     "reported_total_net_difference": 0,
-    "selected_row_count": 313313
+    "selected_row_count": 313329
   }
 }
